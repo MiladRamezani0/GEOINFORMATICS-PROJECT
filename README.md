@@ -4,6 +4,7 @@ This repository contains code and resources for analyzing burned areas and burn 
 
 Overview
 
+
 The project focuses on using Sentinel-1 Synthetic Aperture Radar (SAR) data to monitor wildfires, specifically targeting the analysis of SAR backscatter signals to detect burn severity and land cover changes. The tool developed in this project offers a seamless and automated approach to assess fire impacts, making it useful for environmental monitoring and fire management efforts.
 
 Objectives
